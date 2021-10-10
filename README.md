@@ -1,1 +1,1 @@
-Ctalogo de jogos feito pelo bootcamp da Decola Tech da plataforma Digital Innovation One.
+Catalogo de jogos feito pelo bootcamp da Decolaa Tech da plataforma Digital Innovation One.
